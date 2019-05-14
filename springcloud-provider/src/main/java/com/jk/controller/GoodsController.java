@@ -41,7 +41,7 @@ public class GoodsController {
         goodsService.deleteGood(id);
     }
     /**
-     * 查询
+     * 查询结婚吧hi骄傲HBV哈好iva阿德巴将军
      * @return
      */
     @GetMapping("queryGoodsList")
