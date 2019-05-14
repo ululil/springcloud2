@@ -42,7 +42,7 @@ public class GoodsController {
     }
     /**
      * 查询结婚吧hi骄傲HBV哈好iva阿德巴将军
-     * @return
+     * @returnadsfgfh
      */
     @GetMapping("queryGoodsList")
     @ResponseBody
